@@ -1,8 +1,8 @@
 // rc-switch kütüphanesi yüklenmeli
-// kumanda kodları: A: 10314241 
-//                  B: 10314242 
-//                  C: 10314244 
-//                  D: 10314248 
+// Bendeki kumanda kodları: A: 10314241 
+//                          B: 10314242 
+//                          C: 10314244 
+//                          D: 10314248 
                   
 #include <RCSwitch.h>
 
